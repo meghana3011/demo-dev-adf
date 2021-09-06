@@ -1,2 +1,3 @@
 # demo-dev-adf
-# testing git-rebase
+# testing 1st commit
+# testing 2nd commit
